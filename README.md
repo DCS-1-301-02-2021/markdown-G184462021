@@ -1,6 +1,6 @@
 # 情報工学科の紹介
 <!-- Markdown記法を使って学科の紹介ページを作る -->
-![logo](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)
+![logo](https://feng.takushoku-u.ac.jp/albums/abm00014693.jpg)
 #情報工学科の特徴
 1. 自分のやりたいことに合わせた**5つのコース**
 情報工学科では自分の興味に合わせて、２年次にコース選択を行うことができます。
